@@ -1,0 +1,1 @@
+# digit-recognizer from kaggle and using logistic regression rn, will try KNN later
